@@ -10,6 +10,6 @@
   <img src="https://discord.c99.nl/widget/theme-4/881888876216586290.png"/>
 </p>
 <p align="center">
-Currently learning Python
+Currently learning Python, C#, C++, HTML, CSS, Javascript, Lua
 <p align="center">
     <a href="https://discord.gg/25HkaVvzp7">Discord</a>
